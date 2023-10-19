@@ -49,62 +49,62 @@ The merged data frame highlighted the District Summary, School Summary, Highest 
 Created a high-level snapshot of the district's key metrics in a DataFrame.  
 The District Summary gave a broad look into the district’s 15 school totals, student population of 39,170 and outlining the School District’s Total Budget of $24,649,428. The data frame also gave a snapshot of the school district’s 78.9% average math score, 81.8% average reading score, and overall passing rate of 65.1%.
 
-<img src="images/DistrictSnapshot.png" alt= "snapshot">
+<img src="Images/DistrictSnapshot.png" alt= "snapshot">
 
 ---------------------------------------------------
 
 #### **Per School Summary**
 Created a DataFrame called per_school_summary with columns for School Type, Total Students, Total School Budget, Per Student Budget, Average Math Score, Average Reading Score, % Passing Math, % Passing Reading,% Overall Passing.
 
-<img src="images/PerSchool.png"alt="Perschool">
+<img src="Images/PerSchool.png" alt="Perschool">
 
 ---------------------------------------------------
 
 #### **Top 5 Highest Performing Schools**
 Created a DataFrame with the Top 5 Performing Schools.
 
-<img src="images/HighestPerforming5.png"alt="Top5">
+<img src="Images/HighestPerforming5.png" alt="Top5">
 
 ---------------------------------------------------
 #### **Bottom 5 Performing Schools**
 Created a DataFrame with the Bottom 5 Performing Schools
 
-<img src="images/Bottom5.png" alt="bottom5">
+<img src="Images/Bottom5.png" alt="bottom5">
 
 ---------------------------------------------------
 
 #### **Math Scores by Grade**
 Created a DataFrame for Math Scores by Grade.
 
-<img src="images/MathByGrade.png" alt="mathG">
+<img src="Images/MathByGrade.png" alt="mathG">
 
 ---------------------------------------------------
 
 #### **Reading Scores by Grade**
 
 Created a DataFrame for Reading Scores by Grade.
-<img src="images/ReadingByGrade.png" alt="readingG">
+<img src="Images/ReadingByGrade.png" alt="readingG">
 
 ---------------------------------------------------
 
 #### **Scores by School Spending**
 Created a DataFrame for Scores by School Spending.
 
-<img src="images/ScoreSchoolSpending.png" alt= "schoolSpening">
+<img src="Images/ScoreSchoolSpending.png" alt= "schoolSpening">
 
 ---------------------------------------------------
 
 #### **Scores by School Size**
 Created a DataFrame for Scores by School Size.
 
-<img src="images/SML.png" alt="lms">
+<img src="Images/SML.png" alt="lms">
 
 ---------------------------------------------------
 
 #### **Scores by School Type**
 Created a DataFrame for Scores by School Type
 
-<img src="images/SchoolType.png" alt="schooltype"
+<img src="Images/SchoolType.png" alt="schooltype">
 
 ---------------------------------------------------
 
